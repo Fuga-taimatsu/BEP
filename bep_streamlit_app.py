@@ -13,7 +13,7 @@ st.markdown(
             <h1 style='color:#EE7700; margin-bottom: 0;'>BEP Simulator</h1>
             <div style='display: flex; align-items: center; margin-top: 0;'>
                 <p style='color:#555; font-size:16px; margin-top: 0;'>powered by&nbsp;</p>
-                <img src='https://raw.githubusercontent.com/sukeo24/BEP/bep/TAIMATSU_logo.png' width='110' style='margin-top: -15px;'>
+                <img src='https://bepgit-n5yxyv7dfq6pbcvrxrunb3.streamlit.app//TAIMATSU_logo.png' width='110' style='margin-top: -15px;'>
             </div>
         </div>
     </div>
